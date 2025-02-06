@@ -1,74 +1,116 @@
-# 👋 Hello, I'm Faizal Havid!
-
-Welcome to my GitHub! 🚀 I'm a passionate developer who enjoys exploring new technologies, building cool projects, and solving problems. Below you'll find some information about me, my work, and how you can get in touch.
-
----
-
-### 🔭 **What I’m currently working on**
-- 💻 Building full-stack web applications.
-- 🌱 Learning more about **Machine Learning** and **Data Science**.
-- 🚀 Contributing to open-source projects and exploring new frameworks.
-
----
-
-### 🌱 **Languages & Tools** 
-
-Here are the tools and technologies I'm using, feel free to check them out:
+<h1 align="center">Hi there! I'm Mohamad Faizal Norhavid 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-17-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-16-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-5.7-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-20.10-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Mobile+Developer+%7C+Flutter+%7C+Android+%7C+React+Native;Clean+Architecture+%7C+State+Management+%7C+UI%2FUX;Let's+build+awesome+apps!+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px">
 </p>
 
 ---
 
-### 📊 **GitHub Stats**
-
-Check out my GitHub stats for a quick overview of my activity:
-
-![Faizal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizalhavid&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs)
-
----
-
-### ✨ **Recent Projects**
-
-Here are a few of the things I've worked on lately:
-
-- **[Project Name 1](#)**: A full-stack web app built with React and Node.js.
-- **[Project Name 2](#)**: A Python-based tool to automate some boring tasks.
-- **[Project Name 3](#)**: A contribution to an open-source project on GitHub.
+## 🚀 **About Me**
+- 🎯 **Mobile Developer** specialized in **Flutter, Jetpack Compose, and React Native**  
+- 🎨 Passionate about **UI/UX, animations, and creating smooth user experiences**  
+- ⚡ Love to **debug, optimize performance, and implement best coding practices**  
+- 🌱 Currently exploring **Jetpack Compose, Riverpod, and advanced animations**  
+- 💡 Always open to **collaborations, learning new tech, and fun challenges**  
 
 ---
 
-### 💬 **Get in touch with me!**
-
-Feel free to reach out or connect on the following platforms:
-
-- [LinkedIn: Faizal Havid](https://www.linkedin.com/in/faizalhavid/)
-- [Twitter: @faizalhavid](https://twitter.com/faizalhavid)
-- [Email me!](mailto:nurfaizal966@gmail.com)
+## 🛠 **Tech Stack & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,dart,androidstudio,figma,firebase,sqlite,git,github,vercel" />
+</div>
 
 ---
 
-### 🎨 **Let's make something amazing!**
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizalhavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalhavid&theme=tokyonight&hide_border=true" height="160px" />
+</div>
 
-I believe in the power of collaboration and open-source. If you're interested in working on projects or discussing cool tech ideas, feel free to get in touch!
-
----
-
-### 🔮 **Fun Fact:**
-
-I enjoy solving algorithm challenges and learning new programming paradigms! Also, I might be secretly obsessed with [animated GIFs and cool emojis](https://giphy.com/). 😄
-
----
-
-![animated image](https://media.giphy.com/media/xT5LMBnQ3gck8kE5kQ/giphy.gif)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalhavid&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+</div>
 
 ---
 
-*Thanks for visiting my GitHub profile!*
+## 🌍 **Let's Connect!**
+<p align="center">
+  <a href="https://linkedin.com/in/faizalhavid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/faizalhavid" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/faizalhavid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
+---
+
+## 🔥 **Fun Fact**
+💡 I love building apps with **great UI/UX, smooth animations, and clean code**!   
+🎯 Always looking for **better ways to improve performance and code structure**.  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y1ZrAMYwV3JCE/giphy.gif" width="200px">
+</p>
+<h1 align="center">Hi there! I'm Mohamad Faizal Norhavid 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Mobile+Developer+%7C+Flutter+%7C+Android+%7C+React+Native;Clean+Architecture+%7C+State+Management+%7C+UI%2FUX;Let's+build+awesome+apps!+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px">
+</p>
+
+---
+
+## 🚀 **About Me**
+- 🎯 **Mobile Developer** specialized in **Flutter, Jetpack Compose, and React Native**  
+- 🎨 Passionate about **UI/UX, animations, and creating smooth user experiences**  
+- ⚡ Love to **debug, optimize performance, and implement best coding practices**  
+- 🌱 Currently exploring **Jetpack Compose, Riverpod, and advanced animations**  
+- 💡 Always open to **collaborations, learning new tech, and fun challenges**  
+
+---
+
+## 🛠 **Tech Stack & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,java,dart,androidstudio,figma,firebase,sqlite,git,github,vercel" />
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizalhavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizalhavid&theme=tokyonight&hide_border=true" height="160px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizalhavid&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+</div>
+
+---
+
+## 🌍 **Let's Connect!**
+<p align="center">
+  <a href="https://linkedin.com/in/faizalhavid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/faizalhavid" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/faizalhavid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🔥 **Fun Fact**
+💡 I love building apps with **great UI/UX, smooth animations, and clean code**!   
+🎯 Always looking for **better ways to improve performance and code structure**.  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y1ZrAMYwV3JCE/giphy.gif" width="200px">
+</p>
